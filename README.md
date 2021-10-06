@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
   </ul>
   <h3>Current Endeavors:</h3>
   <ul>
-    <li>Cross platform app deployment with Flutter/Dart</li>
     <li>IOT with Raspberry Pi and Arduino</li>
-    <li>Crypto Advising</li>
+    <li>Cross platform app deployment with Flutter/Dart</li>
+    <li>Vue, Node, and all things Javascript</li>
   </ul>
   <h3>Interests</h3>
   <ul>
