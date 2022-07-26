@@ -13,13 +13,17 @@ You can click the Preview link to take a look at your changes.
     <li>Java</li>
     <li>C and C++</li>
   </ul>
-  <h3>Current Learning Endeavors:</h3>
-  <ul>
-    <li>IOT with Raspberry Pi and Arduino</li>
-    <li>Cross platform app deployment with React Native</li>
-    <li>Front-end Web Design</li>
-    <li>Distributed Systems</li>
-  </ul>
+  
+  <div class="mycontainer">
+    <h3>Current Learning Endeavors:</h3>
+    <ul>
+      <li>IOT with Raspberry Pi and Arduino</li>
+      <li>Cross platform app deployment with React Native</li>
+      <li>Front-end Web Design</li>
+      <li>Distributed Systems</li>
+    </ul>
+  </div>
+  
   <h3>Interests</h3>
   <ul>
     <li>Genetic Algorithm fitness functions</li>
@@ -28,3 +32,13 @@ You can click the Preview link to take a look at your changes.
   </ul>
   
 </div>
+
+<style>
+ .mycontainer{
+    background-color: aqua;
+    width: 400px;
+    padding: 1px;
+    padding-left: 10px;
+    border-radius: 15px;
+}
+</style>
