@@ -59,13 +59,3 @@ You can click the Preview link to take a look at your changes.
   </ul>
   
 </div>
-
-<style>
- .mycontainer{
-    background-color: aqua;
-    width: 400px;
-    padding: 1px;
-    padding-left: 10px;
-    border-radius: 15px;
-}
-</style>
